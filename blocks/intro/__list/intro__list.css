@@ -3,5 +3,7 @@
   font-size: 12px;
   line-height: 18px;
   list-style-type: none;
+  text-align: start;
   padding: 0;
+  margin: 0;
 } 
